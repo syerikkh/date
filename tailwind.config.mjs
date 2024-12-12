@@ -8,8 +8,8 @@ export default {
   theme: {
     extend: {
       colors: {
-        background: "var(--background)",
-        foreground: "var(--foreground)",
+        pastelBlue: "#a8d8ea",
+        pastelPink: "#f8cfd2",
       },
     },
   },

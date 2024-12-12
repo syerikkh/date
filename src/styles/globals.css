@@ -2,6 +2,12 @@
 @tailwind components;
 @tailwind utilities;
 
+@import url("https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400;700&display=swap");
+
+.font-dancing-script {
+  font-family: "Dancing Script", cursive;
+}
+
 :root {
   --background: #ffffff;
   --foreground: #171717;
